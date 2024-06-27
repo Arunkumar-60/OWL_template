@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <record id="action_owl_recruitment_dashboard" model="ir.actions.client">
+            <field name="name">Recruitment Dashboard</field>
+            <field name="tag">owl.recruitment_dashboard</field>
+        </record>
+        <menuitem name="Recruitment" id="menu_owl_recruitment" sequence="10">
+            <menuitem name="Recruitment Dashboard" id="menu_owl_recruitment_dashboard" sequence="10" action="action_owl_recruitment_dashboard"/>
+        </menuitem>
+    </data>
+</odoo>

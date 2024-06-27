@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="owl.OwlRecruitmentDashboard" owl="1">
+        <!-- Your recruitment dashboard template -->
+    </t>
+</templates>
